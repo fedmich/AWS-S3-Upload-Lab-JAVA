@@ -11,7 +11,7 @@ public class UploadFile {
     public static void main(String[] args) throws Exception {
         String existingBucketName = "*** Provide existing bucket name ***";
         String keyName            = "*** Provide object key ***";
-        String filePath           = "*** Provide file to upload ***";  
+        String filePath           = "D:\Fedmich\Products\AWS\bigfile.tmp";
         
         TransferManager tm = new TransferManager(new PropertiesCredentials(
         		UploadFile.class.getResourceAsStream(
