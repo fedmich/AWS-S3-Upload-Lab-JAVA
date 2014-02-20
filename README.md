@@ -5,6 +5,9 @@ This is the code that I built on our Day 3 Amazon Developing with AWS course.
 
 ----
 
+![Preview](https://raw2.github.com/fedmich/AWS-S3-Upload-Lab-JAVA/master/preview.png)
+
+
 //TODOs to run the app
 
 1) You must include the third-party JAR files which can also be found on AWS SDK, **Project Properties -> Build Path -> Add External JARs**
